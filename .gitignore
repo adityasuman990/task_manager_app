@@ -1,0 +1,10 @@
+# Backend
+backend/.env
+backend/node_modules/
+
+# Frontend
+frontend/.env
+frontend/node_modules/
+
+# General
+.DS_Store
